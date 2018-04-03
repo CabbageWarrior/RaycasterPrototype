@@ -1,0 +1,5 @@
+﻿  DBGAConsole.cpp
+c:\users\dbga_53\desktop\dbgaconsolebase\dbgaconsole\dbgaconsole\vector3.h(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbga_53\desktop\dbgaconsolebase\dbgaconsole\dbgaconsole\dbgaconsole.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbga_53\desktop\dbgaconsolebase\dbgaconsole\dbgaconsole\dbgaconsole.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DBGAConsole.vcxproj -> C:\Users\dbga_53\Desktop\DBGAConsoleBase\DBGAConsole\x64\Debug\DBGAConsole.exe
